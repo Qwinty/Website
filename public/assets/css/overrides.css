@@ -1,0 +1,83 @@
+.footer {
+    max-width: 90vw;
+}
+
+.footer i {
+    font-size: 24px;
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(245, 180, 99, 0.15) !important;
+}
+
+.card-img-top {
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+
+.card-img {
+}
+
+.card {
+    background-color: var(--bs-secondary);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.catalog-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 15px 3px rgba(245, 180, 99, 0.3) !important;
+    z-index: 9;
+}
+
+.card-title {
+    transition: color 0.3s ease-in-out;
+}
+
+.catalog-card:hover .card-title {
+    color: var(--bs-primary);
+}
+
+
+.price-tag {
+    background-color: var(--bs-secondary-border-subtle);
+    height: 32px;
+    padding: 8px;
+    column-gap: 6px;
+    border-radius: 4px;
+}
+
+.like-button {
+    background-color: #181b1c;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.like-button:hover {
+    background-color: var(--bs-secondary-text-emphasis);
+    transition: background-color .2s ease-in-out;
+}
+
+@keyframes bounce-zoom {
+    0% {
+        transform: scale(0);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    70% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.liked {
+    color: var(--bs-red);
+    animation: bounce-zoom 0.5s cubic-bezier(0.28,1.02,0.36,1);
+}
+
+#recommendations_header
+{
+    margin-top: 48px;
+}

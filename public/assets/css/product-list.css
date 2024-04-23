@@ -1,0 +1,81 @@
+.cat {
+  border-radius: 16px;
+  border: 1px solid #fff;
+  overflow: hidden;
+  float: left;
+  height: 32px;
+  transition: background-color .2s ease-in-out, opacity .2s ease-in-out;
+  margin-right: 6px;
+  margin-bottom: 10px;
+  opacity: 50%;
+}
+
+.cat:hover {
+  background-color: var(--bs-dark-text-emphasis);
+  opacity: 1 !important;
+}
+
+.cat label {
+  margin-bottom: 0;
+  height: 100%;
+}
+
+.cat label span {
+  text-align: center;
+  /*user-select: none;*/
+  padding-right: 10px;
+  padding-left: 10px;
+  height: 100%;
+}
+
+.cat label input {
+  position: absolute;
+  display: none;
+  color: #fff !important;
+}
+
+/* selects all of the text within the input element and changes the color of the text */
+
+.cat label input + span {
+  color: #fff;
+}
+
+/* This will declare how a selected input will look giving generic properties */
+
+input[type=checkbox]:checked ~ span {
+  color: var(--bs-secondary);
+}
+
+.cat input:checked + span {
+  background-color: var(--bs-primary);
+  transition: background-color .2s ease-in-out, opacity .2s ease-in-out;
+  opacity: 1;
+}
+
+.cat-col {
+  padding-right: 6px;
+  padding-left: 0;
+  column-gap: 8px;
+}
+
+.cat-search {
+  width: 100%;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.cat-search:hover {
+  background-color: #555555;
+}
+
+.row-filter {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.dropdown-menu {
+  --bs-dropdown-link-active-bg: var(--bs-primary-border-subtle);
+}
+
+#toolsRow {
+  margin-top: 0;
+}

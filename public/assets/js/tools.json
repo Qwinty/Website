@@ -1,0 +1,59 @@
+[{
+  "id": "1",
+  "name": "Midjourney", 
+  "description": "Midjourney is a leading computer vision platform providing state-of-the-art image recognition, object detection and visual search capablities through easy-to-use APIs.",
+  
+  "website_url": "https://www.midjourney.com/",
+
+  "categories": [
+    "Computer Vision",
+    "Image Recognition",
+    "Visual Search"
+  ],
+
+  "avg_rating": 4.8,
+  "num_reviews": 72,
+  "likes": 1283,
+
+  "date_added": "2021-05-22",
+  "last_updated": "2023-02-14",
+  "pricing":"Бесплатный",
+  "key_features": [
+    "Pre-built computer vision models",
+    "Object detection API",
+    "Image similarity search",
+    "Custom model training",
+    "Android and iOS SDKs"
+  ]
+  
+},
+{
+  "id": "2",
+  "name": "Midjourney", 
+  "description": "Midjourney is a leading computer vision platform providing state-of-the-art image recognition, object detection and visual search capablities through easy-to-use APIs.",
+  
+  "website_url": "https://www.midjourney.com/",
+
+  "categories": [
+    "Computer Vision",
+    "Image Recognition",
+    "Visual Search",
+      "Test2"
+  ],
+
+  "avg_rating": 4.8,
+  "num_reviews": 72,
+  "likes": 1283,
+
+  "date_added": "2021-05-22",
+  "last_updated": "2023-02-14",
+  "pricing":"Бесплатный",
+  "key_features": [
+    "Pre-built computer vision models",
+    "Object detection API",
+    "Image similarity search",
+    "Custom model training",
+    "Android and iOS SDKs"
+  ]
+  
+}]

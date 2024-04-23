@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Nous</title>
+    <meta name="description" content="Nous - это вики по AI инструментам, совместная платформа, на которой сообщество делится, изучает и голосует за различные инструменты искусственного интеллекта.">
+    <link rel="icon" type="image/svg+xml" sizes="150x150" href="assets/img/brands/Logo_32x32.svg">
+    <link rel="icon" type="image/svg+xml" sizes="150x150" href="assets/img/brands/Logo_32x32.svg" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/svg+xml" sizes="150x150" href="assets/img/brands/Logo_32x32.svg">
+    <link rel="icon" type="image/svg+xml" sizes="150x150" href="assets/img/brands/Logo_32x32.svg" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Unbounded&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/bs-theme-overrides.css">
+    <link rel="stylesheet" href="assets/css/aos.min.css">
+    <link rel="stylesheet" href="assets/css/Articles-Badges-images.css">
+    <link rel="stylesheet" href="assets/css/hero-section.css">
+    <link rel="stylesheet" href="assets/css/overrides.css">
+    <link rel="stylesheet" href="assets/css/product-list.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md sticky-top bg-secondary py-3 navbar-dark" id="mainNav" style="padding-right: 16px;padding-left: 16px;">
+        <div class="container-fluid"><a class="navbar-brand d-xxl-flex align-items-center align-items-xxl-center" href="index.html"><img src="assets/img/brands/Logo_32x32.svg" style="padding-right: 8px;height: 2.5em;width: 2.5em;"><span class="fs-3 logo-font">Nous</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="navbar-nav d-xl-flex d-xxl-flex ms-auto align-items-xl-center">
+                    <li class="nav-item"><a class="nav-link" href="catalog.html">Каталог</a></li>
+                    <li class="nav-item"><a class="btn btn-primary" role="button" href="login.html">Войти</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <section data-aos="fade" class="hero">
+        <div class="hero-content">
+            <h1 data-aos="fade-right" data-aos-duration="700" data-aos-once="true">Nous</h1>
+            <p data-aos="fade-right" data-aos-duration="700" data-aos-delay="50" data-aos-once="true">Добро пожаловать в Nous, ваш универсальный гид инструментов ИИ. Наша вики предназначена для того, чтобы предоставить вам информацию о самых популярных инструментах ИИ, доступных сегодня.<br>Находите, оценивайте, делитесь.</p><a class="btn btn-primary" role="button" data-aos="fade-right" data-aos-duration="700" data-aos-delay="100" data-aos-once="true" href="catalog.html">Каталог</a>
+        </div>
+        <div class="d-sm-none hero-tint-bg"></div>
+    </section>
+    <div class="container py-5 mb-4">
+        <div class="row mb-5">
+            <div class="col-md-8 col-xl-6 text-center mx-auto">
+                <h2 data-aos="fade" data-aos-once="true">Самое популярное</h2>
+                <p data-aos="fade" data-aos-delay="100" data-aos-once="true" class="w-lg-50">Посмотрите самые популярные AI&nbsp;инструменты</p>
+            </div>
+        </div>
+        <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-lg-3" data-aos="fade" data-aos-delay="200" data-aos-once="true" id="toolsRow">
+            <div class="col d-flex justify-content-center align-items-center" id="loader" style="width: 100%;padding-bottom: 370px;"><span class="spinner-border" role="status"></span></div>
+        </div>
+        <div class="row mb-5" id="recommendations_header">
+            <div class="col-md-8 col-xl-6 text-center mx-auto">
+                <h2 data-aos="fade" data-aos-once="true">Рекомендации</h2>
+                <p data-aos="fade" data-aos-delay="100" data-aos-once="true" class="w-lg-50">Рекомендованные AI&nbsp;инструменты на основе лайков</p>
+            </div>
+        </div>
+        <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-lg-3" data-aos="fade" data-aos-delay="200" data-aos-once="true" id="recommendations">
+            <div class="col d-flex justify-content-center align-items-center" id="loader" style="width: 100%;padding-bottom: 370px;"><span class="spinner-border" role="status"></span></div>
+        </div>
+        <div class="row" style="margin-top: 30px;">
+            <div class="col d-flex justify-content-center align-items-center"><a class="btn btn-primary" role="button" data-aos="fade" data-aos-duration="700" data-aos-delay="100" data-aos-once="true" href="catalog.html">Перейти в каталог</a></div>
+        </div>
+    </div>
+    <footer class="bg-dark" data-aos="fade-up" data-aos-delay="200" data-aos-once="true" style="/*background-color: var(--bs-secondary) !important;*/">
+        <div class="container py-4 py-lg-5 footer">
+            <div class="row justify-content-center">
+                <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column">
+                    <h3 class="fs-6 fw-bold">Инструменты</h3>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Каталог инструментов</a></li>
+                        <li><a href="#">Добавить инструмент</a></li>
+                        <li><a href="#">Запросить обновление</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column">
+                    <h3 class="fs-6 fw-bold">О нас</h3>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Компания</a></li>
+                        <li><a href="#">Команда</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 text-center text-lg-start d-flex flex-column align-items-center order-first align-items-lg-start order-lg-last">
+                    <div class="fw-bold d-flex align-items-center mb-2"><img src="assets/img/brands/Logo_32x32.svg" style="padding-right: 6px;height: 2.5em;width: 2.5em;"><span class="logo-font" style="font-size: 21px;">Nous</span></div>
+                    <p class="text-muted">Nous — это вики по AI инструментам, совместная платформа, на которой сообщество делится, изучает и голосует за различные инструменты искусственного интеллекта.</p>
+                </div>
+            </div>
+            <hr>
+            <div class="text-muted d-flex justify-content-between align-items-center pt-3">
+                <p class="mb-0">© 2023 Nous</p>
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item"><a href="https://vk.com/qwinty1" target="_blank"><i class="fa fa-vk"></i></a></li>
+                    <li class="list-inline-item"><a href="https://vk.com/qwinty1" target="_blank"><i class="fa fa-instagram" style="font-size: 22px;"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/aos.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popular_cards.js"></script>
+</body>
+
+</html>

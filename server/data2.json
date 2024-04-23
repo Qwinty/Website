@@ -1,0 +1,986 @@
+[
+    {
+        "id": 1,
+        "name": "ChatGPT",
+        "description": "ChatGPT оптимизирует языковые модели для диалога",
+        "website_url": "https://chat.openai.com/chat",
+        "categories": [
+            "Продуктивность",
+            "Поисковик"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 2,
+        "name": "Namelix",
+        "description": "Создавайте короткие, узнаваемые названия компаний и доменных имен.",
+        "website_url": "https://namelix.com/",
+        "categories": [
+            "Для стартапа"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 3,
+        "name": "Tome",
+        "description": "Раскройте свои лучшие работы с помощью генеративного повествования на базе искусственного интеллекта от Tome.",
+        "website_url": "https://beta.tome.app/",
+        "categories": [
+            "Писательство",
+            "Презентации",
+            "Для стартапа"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 4,
+        "name": "Midjourney",
+        "description": "Лаборатория искусственного интеллекта изучает новые средства для расширения человеческого воображения.",
+        "website_url": "https://www.midjourney.com/home/",
+        "categories": [
+            "Искусство"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 5,
+        "name": "Codeium",
+        "description": "Инструментарий ускорения кода на базе искусственного интеллекта позволяет кодировать умнее, а не сложнее.",
+        "website_url": "https://www.codeium.com/",
+        "categories": [
+            "Ассистент для кода"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 6,
+        "name": "Riffusion",
+        "description": "Создавайте музыку из текста с помощью стилей, инструментов, модификаторов и жанров.",
+        "website_url": "https://www.riffusion.com/",
+        "categories": [
+            "Музыка"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 7,
+        "name": "Piggy Magic",
+        "description": "Piggy Magic - создатель социальных историй",
+        "website_url": "https://piggy.to/magic",
+        "categories": [
+            "Соцсети",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 8,
+        "name": "Humata AI",
+        "description": "ChatGPT для ваших файлов.",
+        "website_url": "https://www.humata.ai/",
+        "categories": [
+            "Образование",
+            "Исследование",
+            "Юрисдикция",
+            "Продуктивность"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 9,
+        "name": "Writesonic",
+        "description": "Создавайте оптимизированный для SEO контент с помощью искусственного интеллекта для блогов, веб-сайтов и статей.",
+        "website_url": "https://writesonic.com/chat",
+        "categories": [
+            "СЕО",
+            "Копирайтинг"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 10,
+        "name": "REimagine Home",
+        "description": "Генеративный искусственный интеллект для перепроектирования любой комнаты за считанные секунды",
+        "website_url": "https://www.reimaginehome.ai/",
+        "categories": [
+            "Генератор дизайна",
+            "Недвижимость"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 11,
+        "name": "GPTGO",
+        "description": "ChatGPT в сочетании с поиском Google",
+        "website_url": "https://googpt.ai/",
+        "categories": [
+            "Персональный помощник",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 12,
+        "name": "Copy.ai",
+        "description": "Копирайтер для маркетинга на базе искусственного интеллекта: начните работу бесплатно, кредитная карта не нужна!",
+        "website_url": "https://www.copy.ai/",
+        "categories": [
+            "Копирайтинг"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 13,
+        "name": "Andi",
+        "description": "Andi - это генеративный поисковик на базе искусственного интеллекта, который предоставляет прямые ответы, а не просто ссылки.",
+        "website_url": "https://andisearch.com/",
+        "categories": [
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 14,
+        "name": "Cody",
+        "description": "Магия чата, но обученная вашему бизнесу.",
+        "website_url": "https://www.meetcody.ai/",
+        "categories": [
+            "Человеческие ресурсы"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 15,
+        "name": "Namecheap Logo Maker",
+        "description": "Отвечайте на вопросы, получайте бесплатные логотипы для скачивания",
+        "website_url": "https://www.namecheap.com/logo-maker/app/new/",
+        "categories": [
+            "Генератор лого"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 16,
+        "name": "Playground AI",
+        "description": "Создавайте рисунки, логотипы, видео, плакаты с помощью бесплатного онлайн-приложения AI image creator.",
+        "website_url": "https://playgroundai.com/",
+        "categories": [
+            "Искусство",
+            "Поисковик"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 17,
+        "name": "Dream Interpreter",
+        "description": "Толкователь снов с использованием GPT-3",
+        "website_url": "https://dreaminterpreter.ai/",
+        "categories": [
+            "Персональный помощник",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 18,
+        "name": "Browse AI",
+        "description": "Обучите робота извлекать и отслеживать данные с любого веб-сайта без необходимости кодирования.",
+        "website_url": "https://browse.ai/",
+        "categories": [
+            "Создание сайта",
+            "Лоу-код/ноу-код"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 19,
+        "name": "Adcreative.ai",
+        "description": "Создавайте объявления и посты, ориентированные на конверсию, быстро и легко для достижения лучших результатов.",
+        "website_url": "https://free-trial.adcreative.ai/futurepedia",
+        "categories": [
+            "Соцсети",
+            "Копирайтинг"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 20,
+        "name": "Boomy",
+        "description": "Создавайте музыку и получайте деньги за каждое прослушивание на более чем 40 платформах по всему миру.",
+        "website_url": "https://boomy.com/",
+        "categories": [
+            "Музыка"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 21,
+        "name": "NightCafe Studio",
+        "description": "Произведения искусства, созданные искусственным интеллектом, для изучения творческих возможностей.",
+        "website_url": "https://creator.nightcafe.studio/",
+        "categories": [
+            "Искусство"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 22,
+        "name": "TutorAI",
+        "description": "Обучающая платформа на базе искусственного интеллекта; введите тему, получите варианты обучения.",
+        "website_url": "https://www.tutorai.me/",
+        "categories": [
+            "Образование",
+            "Игры"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 23,
+        "name": "Talk To Books",
+        "description": "Исследуйте книги с помощью искусственного интеллекта",
+        "website_url": "https://books.google.com/talktobooks/",
+        "categories": [
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 24,
+        "name": "ChatGPT Writer",
+        "description": "Генерируйте электронные письма / ответы на основе ключевых слов",
+        "website_url": "https://chatgptwriter.ai/",
+        "categories": [
+            "Почтовый помощник",
+            "Продуктивность"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 25,
+        "name": "DallE-2",
+        "description": "Создавайте реалистичные изображения из текста, сочетая концепции и стили.",
+        "website_url": "https://openai.com/dall-e-2/",
+        "categories": [
+            "Генератор изображений"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 26,
+        "name": "Mubert",
+        "description": "Музыкальная экосистема без роялти для создателей контента, брендов и разработчиков.",
+        "website_url": "https://mubert.com/",
+        "categories": [
+            "Текст в речь"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 27,
+        "name": "Stable Diffusion",
+        "description": "Модель преобразования текста в изображение для глубокого обучения",
+        "website_url": "https://stability.ai/",
+        "categories": [
+            "Генератор изображений"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 28,
+        "name": "MidJourney Prompt Helper",
+        "description": "Изучайте стили и сложные подсказки визуально.",
+        "website_url": "https://prompt.noonshot.com/",
+        "categories": [
+            "Генератор промптов"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 29,
+        "name": "Jasper",
+        "description": "Создавайте контент в 10 раз быстрее с помощью инструмента копирайтинга на базе искусственного интеллекта",
+        "website_url": "https://jasper.ai/",
+        "categories": [
+            "Копирайтинг"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 30,
+        "name": "Validator AI",
+        "description": "Получайте обратную связь для проверки и улучшения идей стартапа",
+        "website_url": "https://www.validatorai.com/",
+        "categories": [
+            "Детект AI",
+            "Для стартапа"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 31,
+        "name": "Stunning",
+        "description": "Конструктор веб-сайтов с искусственным интеллектом, включая копирование и выравнивание изображений за 30 секунд",
+        "website_url": "https://stunning.so/",
+        "categories": [
+            "Создание сайта",
+            "Лоу-код/ноу-код"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 32,
+        "name": "IdeasAI",
+        "description": "Идеи, сгенерированные искусственным интеллектом, обученные более чем 1,5 млн людей, которым они нравились / не нравились",
+        "website_url": "https://ideasai.com/",
+        "categories": [
+            "Для стартапа",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 33,
+        "name": "Autodraw",
+        "description": "Инструмент для рисования на базе искусственного интеллекта, который поможет вам рисовать быстрее.",
+        "website_url": "https://autodraw.com/",
+        "categories": [
+            "Генератор дизайна",
+            "Рисование"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 34,
+        "name": "Notion AI",
+        "description": "Откройте для себя магию, основанную на искусственном интеллекте, в Notion, чтобы писать быстрее и мыслить масштабнее.",
+        "website_url": "https://affiliate.notion.so/futurepedia",
+        "categories": [
+            "Генерация текста",
+            "Продуктивность"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 35,
+        "name": "Fy! Studio",
+        "description": "Создавайте уникальные настенные рисунки на основе ваших идей!",
+        "website_url": "https://www.iamfy.co/studio",
+        "categories": [
+            "Генератор мультиков",
+            "Искусство",
+            "Рисование"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 36,
+        "name": "Airops",
+        "description": "Приложения ИИ для конкретных задач, которые выходят за рамки чата-GPT—запускают NLP, генерируют контент, основанный на данных, разрабатывают / исправляют / оптимизируют SQL-запросы и многое другое",
+        "website_url": "https://www.airops.com/",
+        "categories": [
+            "SQL"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 37,
+        "name": "Craiyon",
+        "description": "Генерируйте изображения из любого приглашения",
+        "website_url": "https://www.craiyon.com/",
+        "categories": [
+            "Генератор мультиков",
+            "Генератор изображений"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 38,
+        "name": "MarketingBlocks AI",
+        "description": "Ассистент по маркетингу на базе искусственного интеллекта",
+        "website_url": "https://questionreality--snapilabs.thrivecart.com/marketingblocks-bundle-unlimited/",
+        "categories": [
+            "Генератор дизайна",
+            "Копирайтинг"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 39,
+        "name": "PaperBrain",
+        "description": "Платформа для доступа и понимания исследовательских работ с рефератами и PDF-файлами",
+        "website_url": "https://www.paperbrain.study/",
+        "categories": [
+            "Образование",
+            "Исследование"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 40,
+        "name": "Wisdolia",
+        "description": "Карточки, сгенерированные искусственным интеллектом для любой статьи / PDF",
+        "website_url": "https://wisdolia.com/",
+        "categories": [
+            "Образование"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 41,
+        "name": "Synthesia",
+        "description": "Создавайте видео с искусственным интеллектом из текста. Легко, дешево, масштабируемо. Ведущие - люди. Бесплатная демонстрация.",
+        "website_url": "https://www.synthesia.io/",
+        "categories": [
+            "Генератор видео",
+            "Текст в видео"
+        ],
+        "pricing": "Платный"
+    },
+    {
+        "id": 42,
+        "name": "Profile Picture AI",
+        "description": "Создайте идеальную фотографию профиля с помощью искусственного интеллекта - будьте кем угодно, где угодно, кем угодно!",
+        "website_url": "https://www.profilepicture.ai/",
+        "categories": [
+            "Аватары"
+        ],
+        "pricing": "Платный"
+    },
+    {
+        "id": 43,
+        "name": "Pollinations",
+        "description": "Создавайте, исследуйте и делитесь контентом, созданным с помощью искусственного интеллекта, с помощью API Pollinations.",
+        "website_url": "https://pollinations.ai/",
+        "categories": [
+            "Генератор изображений",
+            "Музыка",
+            "Генератор видео"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 44,
+        "name": "PowerMode AI",
+        "description": "От идеи до слайдов за считанные секунды",
+        "website_url": "https://powermodeai.com/",
+        "categories": [
+            "Презентации",
+            "Для стартапа"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 45,
+        "name": "Rytr",
+        "description": "Помощник по написанию с искусственным интеллектом для быстрого, доступного и высококачественного контента.",
+        "website_url": "https://rytr.me/",
+        "categories": [
+            "Копирайтинг",
+            "Почтовый помощник"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 46,
+        "name": "Scribble Diffusion",
+        "description": "Превратите свой эскиз в изысканное изображение с помощью искусственного интеллекта",
+        "website_url": "https://scribblediffusion.com/",
+        "categories": [
+            "Генератор изображений",
+            "Рисование",
+            "Photoshop"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 47,
+        "name": "Public Prompts",
+        "description": "Подсказки для генерации изображений с открытым исходным кодом высокого качества",
+        "website_url": "https://publicprompts.art/",
+        "categories": [
+            "Генератор мультиков",
+            "Генератор промптов",
+            "Картинка в картинку"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 48,
+        "name": "Where To",
+        "description": "Найдите интересные и увлекательные места для посещения",
+        "website_url": "https://www.wheretoai.com/",
+        "categories": [
+            "Персональный помощник"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 49,
+        "name": "MarsAi",
+        "description": "Платформа с низким уровнем кода для создания веб- и мобильных приложений",
+        "website_url": "https://www.marsx.dev/",
+        "categories": [
+            "Ассистент для кода",
+            "Лоу-код/ноу-код"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 50,
+        "name": "Uberduck",
+        "description": "Создавайте закадровый звук и рэп, сгенерированный искусственным интеллектом, с помощью Uberduck.",
+        "website_url": "https://uberduck.ai/",
+        "categories": [
+            "Текст в речь"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 51,
+        "name": "Safurai",
+        "description": "Помощник по кодированию с искусственным интеллектом, который действительно помогает разработчикам.",
+        "website_url": "https://www.safurai.com/",
+        "categories": [
+            "Ассистент для кода"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 52,
+        "name": "Jusi",
+        "description": "Инструмент на базе искусственного интеллекта, который позволяет компаниям быстрее воплощать свои идеи в жизнь",
+        "website_url": "https://jusi.me/",
+        "categories": [
+            "Для стартапа",
+            "Продуктивность"
+        ],
+        "pricing": "Платный"
+    },
+    {
+        "id": 53,
+        "name": "Adobe Podcast",
+        "description": "Улучшайте качество звука с помощью мощных веб-улучшений и инструментов.",
+        "website_url": "https://podcast.adobe.com/",
+        "categories": [
+            "Улучшение аудио"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 54,
+        "name": "Merlin",
+        "description": "Merlin предоставляет вам возможность написания и редактирования на любом веб-сайте с использованием искусственного интеллекта.",
+        "website_url": "https://merlin.foyer.work/",
+        "categories": [
+            "Продуктивность"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 55,
+        "name": "CheckForAI",
+        "description": "Обнаруживайте текст с искусственным интеллектом в эссе / электронных письмах с открытым ИИ и проприетарными моделями.",
+        "website_url": "https://checkforai.com/",
+        "categories": [
+            "Образование",
+            "Детект AI"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 56,
+        "name": "WatchNow AI",
+        "description": "Персонализированные рекомендации по фильмам и шоу на базе искусственного интеллекта",
+        "website_url": "https://www.watchnowai.com/",
+        "categories": [
+            "Личный помощник",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 57,
+        "name": "StockImg AI",
+        "description": "Сервис по дизайну логотипов, изображений, плакатов, обложек книг и многого другого на базе искусственного интеллекта.",
+        "website_url": "https://stockimg.ai/",
+        "categories": [
+            "Генератор дизайна",
+            "Генератор изображений"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 58,
+        "name": "IngestAI",
+        "description": "Универсальный магазин для всех, кто хочет использовать искусственный интеллект.",
+        "website_url": "https://ingestai.io/",
+        "categories": [
+            "Продуктивность"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 59,
+        "name": "Magic Type AI",
+        "description": "Пишите поздравления, стихи и рэп-тексты с помощью искусственного интеллекта.",
+        "website_url": "https://www.magictype.ai/",
+        "categories": [
+            "Идеи для подарков",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 60,
+        "name": "Quillbot Paraphraser",
+        "description": "Переписать текст бесплатно.",
+        "website_url": "https://try.quillbot.com/futurepedia",
+        "categories": [
+            "Перефразировать"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 61,
+        "name": "Detect GPT",
+        "description": "Определить, сгенерирован ли контент веб-страницы искусственным интеллектом",
+        "website_url": "https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related",
+        "categories": [
+            "Генерация текста",
+            "Детект AI"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 62,
+        "name": "Socratic by Google",
+        "description": "Закрепитесь в академических кругах с помощью искусственного интеллекта Google и визуальных объяснений.",
+        "website_url": "https://socratic.org/",
+        "categories": [
+            "Исследование"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 63,
+        "name": "ThumbnailAi",
+        "description": "Будет предоставлять обзоры миниатюр youtube с использованием искусственного интеллекта",
+        "website_url": "https://thumbnail-ai.ybouane.com/",
+        "categories": [
+            "Соцсети",
+            "Улучшение видео"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 64,
+        "name": "Cookup.ai",
+        "description": "Приложения с искусственным интеллектом для любого случая использования",
+        "website_url": "https://cookup.ai/",
+        "categories": [],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 65,
+        "name": "Monica",
+        "description": "Личный ассистент Al для легкого общения в чате и копирайтинга.",
+        "website_url": "https://monica.im/",
+        "categories": [
+            "Генерация текста",
+            "Продуктивность"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 66,
+        "name": "ChatGPT Chrome Extension",
+        "description": "Отобразите ответ ChatGPT рядом с результатами поиска.",
+        "website_url": "https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban",
+        "categories": [
+            "Продуктивность",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 67,
+        "name": "Imagecolorizer",
+        "description": "Раскрашивайте черно-белые фотографии с потрясающей точностью.",
+        "website_url": "https://imagecolorizer.com/",
+        "categories": [
+            "Редактирование изображений",
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 68,
+        "name": "SEO GPT",
+        "description": "SEO GPT создает оптимизацию на странице/за ее пределами",
+        "website_url": "https://seovendor.co/seo-gpt/",
+        "categories": [
+            "СЕО"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 69,
+        "name": "Creative Reality Studio (D-ID)",
+        "description": "Платформа на базе искусственного интеллекта для создания говорящих аватаров из вашего видения за считанные секунды.",
+        "website_url": "https://studio.d-id.com/",
+        "categories": [
+            "Генератор видео"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 70,
+        "name": "Namy ai",
+        "description": "Простой инструмент для генерации идей доменных имен",
+        "website_url": "https://namy.ai/",
+        "categories": [
+            "Для стартапа"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 71,
+        "name": "Pixelicious",
+        "description": "Преобразователь пиксельного изображения",
+        "website_url": "https://www.pixelicious.xyz/",
+        "categories": [
+            "Искусство",
+            "Игры"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 72,
+        "name": "Bright Eye",
+        "description": "Многофункциональное приложение с искусственным интеллектом \"все в одном\" для генерации текста, изображений, кода, истории, стихотворения, анализа изображений и текста и многого другого.",
+        "website_url": "https://apps.apple.com/us/app/bright-eye/id1593932475",
+        "categories": [
+            "Генератор изображений",
+            "Продуктивность",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 73,
+        "name": "WTF Does This Company Do?",
+        "description": "Объясняет целевую страницу, использующую только домен.",
+        "website_url": "https://wtfdoesthiscompanydo.vercel.app/",
+        "categories": [
+            "Создание сайта"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 74,
+        "name": "Civitai",
+        "description": "Бесплатный центр обмена моделями с открытым исходным кодом для сообщества AI art generation",
+        "website_url": "https://civitai.com/",
+        "categories": [
+            "Искусство",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 75,
+        "name": "Kinetix",
+        "description": "Создавайте 3D-анимацию бесплатно. Никакого кода, никаких навыков не требуется. Исследуйте метавселенную.",
+        "website_url": "https://www.kinetix.tech/",
+        "categories": [
+            "Лоу-код/ноу-код",
+            "3d"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 76,
+        "name": "Glasp",
+        "description": "Выделяйте и систематизируйте веб-цитаты и получайте доступ к обучению единомышленников",
+        "website_url": "https://glasp.co/ai-writing",
+        "categories": [
+            "Генерация текста"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 77,
+        "name": "Casper AI",
+        "description": "Упростите свой рабочий процесс, обобщая статьи и создавая контент",
+        "website_url": "https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel",
+        "categories": [
+            "Обобщитель",
+            "Продуктивность"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 78,
+        "name": "Lucidpic",
+        "description": "Создавайте качественные стоковые фотографии людей, которых не существует, за считанные секунды.",
+        "website_url": "https://lucidpic.com/",
+        "categories": [
+            "Portrait generators",
+            "Генератор изображений"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 79,
+        "name": "Predict AI",
+        "description": "Прогнозирует реакцию клиентов на креативные ресурсы",
+        "website_url": "https://www.neuronsinc.com/predict",
+        "categories": [
+            "Генератор дизайна",
+            "Соцсети"
+        ],
+        "pricing": "Платный"
+    },
+    {
+        "id": 80,
+        "name": "TinyWow",
+        "description": "Коллекция полезных инструментов",
+        "website_url": "https://tinywow.com/",
+        "categories": [
+            "Личный помощник",
+            "Продуктивность"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 81,
+        "name": "ProductBot",
+        "description": "Решите, что купить на Amazon, и получите рекомендации, основанные на ваших предпочтениях.",
+        "website_url": "https://www.getproduct.help/",
+        "categories": [
+            "Электронная торговля",
+            "Личный помощник"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 82,
+        "name": "Hello History",
+        "description": "Ведите уникальные беседы с историческими личностями",
+        "website_url": "https://www.hellohistory.ai/",
+        "categories": [
+            "Веселье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 83,
+        "name": "Artflow ai",
+        "description": "Анимированные истории с активами, созданными искусственным интеллектом, и оригинальными персонажами",
+        "website_url": "https://artflow.ai/",
+        "categories": [
+            "Искусство",
+            "Писательство",
+            "Генератор видео"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 84,
+        "name": "WolframAlpha",
+        "description": "Вычислите ответы экспертного уровня по математике, естественным наукам, обществу, культуре и повседневной жизни",
+        "website_url": "https://www.wolframalpha.com/",
+        "categories": [
+            "Образование",
+            "Исследование"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 85,
+        "name": "Microsoft Bing",
+        "description": "Задавайте реальные вопросы. Получайте исчерпывающие ответы. Общайтесь и творите.",
+        "website_url": "https://www.bing.com/new",
+        "categories": [
+            "Личный помощник",
+            "Продуктивность",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 86,
+        "name": "HoppyCopy",
+        "description": "Быстро создавайте электронные письма с высокой конверсией с помощью копии, сгенерированной искусственным интеллектом.",
+        "website_url": "https://www.hoppycopy.co/",
+        "categories": [
+            "Маркетинг",
+            "Почтовый помощник"
+        ],
+        "pricing": "Бесплатный триал"
+    },
+    {
+        "id": 87,
+        "name": "One More AI",
+        "description": "Стоковые изображения, сгенерированные искусственным интеллектом: тысячи фотографий!",
+        "website_url": "https://onemoreai.com/",
+        "categories": [
+            "Генеративные AI",
+            "Детект AI",
+            "Поисковик"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 88,
+        "name": "Teachable Machine",
+        "description": "Обучаемая машина: быстрые и простые модели ML для всех",
+        "website_url": "https://teachablemachine.withgoogle.com/",
+        "categories": [
+            "Лоу-код/ноу-код"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 89,
+        "name": "Magical",
+        "description": "Волшебный искусственный интеллект - Добро пожаловать в будущее составления календарей.",
+        "website_url": "https://magical.so/",
+        "categories": [
+            "Обобщитель",
+            "Продуктивность"
+        ],
+        "pricing": "Условно бесплатно"
+    },
+    {
+        "id": 90,
+        "name": "Pixela AI",
+        "description": "Игровые текстуры, сгенерированные искусственным интеллектом. Поделитесь своими с сообществом!",
+        "website_url": "https://pixela.ai/",
+        "categories": [
+            "3d"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 91,
+        "name": "Woebot Health",
+        "description": "Союзник в области психического здоровья на базе искусственного интеллекта, подкрепленный клиническими исследованиями.",
+        "website_url": "https://woebothealth.com/",
+        "categories": [
+            "Личный помощник",
+            "Здоровье"
+        ],
+        "pricing": "Бесплатный"
+    },
+    {
+        "id": 92,
+        "name": "Descript",
+        "description": "Создайте модель преобразования текста в речь вашего голоса; попробуйте живую демонстрацию.",
+        "website_url": "https://www.descript.com/",
+        "categories": [
+            "Текст в речь"
+        ],
+        "pricing": "Условно бесплатно"
+    }
+]
